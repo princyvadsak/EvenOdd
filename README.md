@@ -1,4 +1,4 @@
-# EvenOdd    
+# EvenOdd(Assignment-06)
 ### Created By Vadsak Princy Hareshbhai &nbsp; on &nbsp;16 june 2021
 
 #### This is simple program to find out the inputted number is even or odd.
