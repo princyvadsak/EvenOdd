@@ -11,4 +11,4 @@ When user run this program then user get one textfield for the input number and 
 * Navigation controller is used for navigate the screen.
 * View controller is used for manage apperance and embed in navigation controller with view controller.
 * Event Handling on Button of TouchUpInside Event using the addTarget attribute of button using action with selector(functonname).
-* Passing data from one screen(view controller) to another screen.
+* Passing data from one screen(view controller) to another screen(view controller) using navigation controller.
